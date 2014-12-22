@@ -1,0 +1,7 @@
+twisted==14.0.2
+pyOpenSSL==0.14
+service_identity==14.0.0
+treq==0.2.1
+autobahn=0.9.4
+bip32utils==0.1
+ecdsa==0.11
